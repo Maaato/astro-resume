@@ -1,7 +1,7 @@
 {
-  "name": "astro-minimalist-resume",
+  "name": "astro-resume",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "dev": "astro dev --open",
     "start": "astro dev",
@@ -10,10 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "0.5.10",
-    "astro": "4.5.9",
+    "@astrojs/check": "0.9.4",
+    "astro": "5.12.8",
     "ninja-keys": "1.2.2",
-    "typescript": "5.4.3"
+    "typescript": "5.9.2"
   },
   "engines": {
     "node": "v20.11.1"
